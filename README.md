@@ -1,1 +1,1 @@
-# Linear-Reg-with-Multi-variables
+# Linear-Reg-with-Multiple Feature
